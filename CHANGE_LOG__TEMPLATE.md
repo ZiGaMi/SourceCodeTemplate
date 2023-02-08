@@ -7,6 +7,9 @@ and this project/module adheres to [Semantic Versioning](https://semver.org/spec
 ---
 ## Vmaj.min.dev - dd.mm.yyyy
 
+### Notice
+ - Notices for tha specific release (example: This release is compatible with HW V1.2.3)
+
 ### Added
 - List of new features
 
@@ -24,5 +27,12 @@ and this project/module adheres to [Semantic Versioning](https://semver.org/spec
 
 ### Issues
 - List of known problems
+
+### Todo
+- List of open tasks 
+
+### Memory usage:
+- RAM: xx.xkB/xxkB (xx.x%)
+- FLASH: xx.xkB/xxkB (xx.x%)
 
 ---
