@@ -6,6 +6,7 @@
 *@file      template.h
 *@brief     Header file template for general use
 *@author    Ziga Miklosic
+*@email     ziga.miklosic@gmail.com
 *@date      xx.xx.xxxx
 *@version   Vx.x.x
 */

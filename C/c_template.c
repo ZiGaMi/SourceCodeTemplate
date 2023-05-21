@@ -6,6 +6,7 @@
 *@file      template.c
 *@brief     C source code template for general use
 *@author    Ziga Miklosic
+*@email     ziga.miklosic@gmail.com
 *@date      xx.xx.xxxx
 *@version   Vx.x.x
 */
