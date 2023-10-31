@@ -102,7 +102,7 @@ static ring_buffer_status_t ring_buffer_default_setup(p_ring_buffer_t ring_buffe
 * @return       void
 */
 ////////////////////////////////////////////////////////////////////////////////
-void TemplateClass::TemplateClass(const char * p_name)
+TemplateClass::TemplateClass(const char * p_name)
 {
 
 }
@@ -115,7 +115,7 @@ void TemplateClass::TemplateClass(const char * p_name)
 * @return       void
 */
 ////////////////////////////////////////////////////////////////////////////////
-void TemplateClass::~TemplateClass(void)
+TemplateClass::~TemplateClass(void)
 {
 
 }
